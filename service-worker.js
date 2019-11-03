@@ -2,6 +2,8 @@ const CACHE_NAME = "gali-liga-v1.0.0";
 var urlsToCache = [
     "/",
     "/index.html",
+    "/manifest.json",
+    "/icon_512.png",
     "/navigation.html",
     "/assets/css/main.css",
     "/assets/css/materialize.min.css",

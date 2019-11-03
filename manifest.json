@@ -1,0 +1,16 @@
+{
+  "name": "Gali Liga PWA",
+  "short_name": "Gali Liga",
+  "description": "List and detail of leagues",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#47a202",
+  "theme_color": "#47a202",
+  "icons": [
+    {
+      "src": "icon_512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

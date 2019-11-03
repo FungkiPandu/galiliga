@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b693f36c-0670-4e50-8b99-23b2db1de7dc" name="create pwa" comment="enable offline mode">
+    <list default="true" id="b693f36c-0670-4e50-8b99-23b2db1de7dc" name="create pwa" comment="add icon">
+      <change afterPath="$PROJECT_DIR$/icon_512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/service-worker.js" afterDir="false" />
     </list>
     <list id="bb41e1b0-2b6d-4a14-866d-2d69090dadd3" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,7 +27,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1T5Pj9TOsuSwYRgouPS4i5PRGBJ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="TODO_SCOPE" value="All Places" />
@@ -80,7 +87,7 @@
       <option name="presentableId" value="Default" />
       <updated>1572747115541</updated>
       <workItem from="1572747117225" duration="10323000" />
-      <workItem from="1572764243976" duration="9964000" />
+      <workItem from="1572764243976" duration="12549000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1572776890387</created>
@@ -103,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572791172009</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="change material icon for more support offline mode">
+      <created>1572792161143</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1572792161143</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,9 +137,11 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="first commit" />
     <MESSAGE value="refactor to SPA" />
     <MESSAGE value="enable offline mode" />
-    <option name="LAST_COMMIT_MESSAGE" value="enable offline mode" />
+    <MESSAGE value="change material icon for more support offline mode" />
+    <option name="LAST_COMMIT_MESSAGE" value="change material icon for more support offline mode" />
   </component>
 </project>
