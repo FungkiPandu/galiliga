@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b693f36c-0670-4e50-8b99-23b2db1de7dc" name="create pwa" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/js/service-worker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/navigation.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/bundesliga.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/la_liga.html" afterDir="false" />
+    <list default="true" id="b693f36c-0670-4e50-8b99-23b2db1de7dc" name="create pwa" comment="refactor to SPA">
+      <change afterPath="$PROJECT_DIR$/assets/js/nav.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/English_Premier_League/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/premier_league.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/French_Ligue_1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/ligue_1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/German_Bundesliga/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Italian_Serie_A/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/serie_a.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/service-worker.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <list id="bb41e1b0-2b6d-4a14-866d-2d69090dadd3" name="Default Changelist" comment="" />
@@ -24,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -89,7 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1572747115541</updated>
       <workItem from="1572747117225" duration="10323000" />
-      <workItem from="1572764243976" duration="7452000" />
+      <workItem from="1572764243976" duration="9121000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1572776890387</created>
@@ -98,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572776890387</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="refactor to SPA">
+      <created>1572788880352</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1572788880352</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,6 +120,7 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="refactor to SPA" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor to SPA" />
   </component>
 </project>
