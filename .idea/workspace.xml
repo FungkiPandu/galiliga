@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bb41e1b0-2b6d-4a14-866d-2d69090dadd3" name="Default Changelist" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gali-liga.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/English_Premier_League/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/French_Ligue_1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/German_Bundesliga/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Italian_Serie_A/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spanish_La_Liga/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/materialize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/materialize.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/roboto/Roboto-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/roboto/Roboto-Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/roboto/Roboto-Light.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/roboto/Roboto-Light.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/roboto/Roboto-Medium.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/roboto/Roboto-Medium.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/roboto/Roboto-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/roboto/Roboto-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/roboto/Roboto-Thin.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/roboto/Roboto-Thin.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/bundesliga.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/gbk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/la_liga.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/ligue_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/premier_league.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/serie_a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/jquery-3.4.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/jquery-3.4.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/materialize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/materialize.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1T5Pj9TOsuSwYRgouPS4i5PRGBJ" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Spanish_La_Liga" />
+      <recent name="$PROJECT_DIR$/French_Ligue_1" />
+      <recent name="$PROJECT_DIR$/Italian_Serie_A" />
+      <recent name="$PROJECT_DIR$/German_Bundesliga" />
+      <recent name="$PROJECT_DIR$/pages/English_Premier_League" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$/css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb41e1b0-2b6d-4a14-866d-2d69090dadd3" name="Default Changelist" comment="" />
+      <created>1572747115541</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572747115541</updated>
+      <workItem from="1572747117225" duration="10323000" />
+      <workItem from="1572764243976" duration="751000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+</project>
